@@ -1,5 +1,5 @@
 
-div {
+div:nth-child(1) {
     margin: 100px auto;
     width: 500px;
     height: 500px;
@@ -18,7 +18,7 @@ div {
     padding: 2px;
 
     width: 20px;
-    height: 24px;
+    height: 20px;
 }
 
 .dis{
@@ -35,4 +35,9 @@ div {
 }
 #start{
     margin: 20px auto;
+}
+
+.info{
+    color: #000000;
+    size: 9px;
 }
