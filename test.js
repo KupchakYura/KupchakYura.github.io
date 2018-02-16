@@ -167,7 +167,7 @@ function init() {
                             clearInterval(timer);
                             console.log('stop');
                         }
-                    }, 150);
+                    }, 50);
 
 
                 } else {
